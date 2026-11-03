@@ -1,3 +1,3 @@
-fullstack-challenges > 04-Front-End > 01-HTML-and-CSS > 05-Push-on-Github-Pages
+fullstack-challenges > 04-Front-End > 02-CSS-components > 03-Landing-page
 
 https://theufyrlw.github.io/landing/
